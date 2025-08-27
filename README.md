@@ -70,3 +70,14 @@ Club-Manager-App streamlines this process by allowing:
 - 🔐 **Role-Based Access for Club Admins/Members**
 - 🏛️ **Verified Multi-Institution Support**
 - 📦 **Optimized Event & Announcement Management**
+
+---
+## 🛠️ Current Status
+
+> 🚧 This web is under development. The vision is clear and development is ongoing.
+
+---
+### 🙌 Made with passion for students, by a student who believes in collaboration over competition. ✨
+
+Built by **Vatsal Chandrani** – turning ideas into digital solutions.  
+*“Code. Create. Empower.”*
